@@ -20,47 +20,71 @@ custom_formats:
 - name: UHD Bluray (Missing)
   score: 240000
 - name: 1080p WEB-DL
-  score: 200000
+  score: 160000
 - name: 1080p Bluray
-  score: 140000
+  score: 180000
 - name: 1080p WEBRip
-  score: 140000
+  score: 130000
 - name: 720p WEB-DL
-  score: 100000
+  score: 90000
+- name: TRaSH Remux Tier 01
+  score: 220000
+- name: TRaSH Remux Tier 02
+  score: 210000
+- name: TRaSH HD Bluray Tier 01
+  score: 185000
 - name: 1080p Quality Tier 1
-  score: 84000
+  score: 95000
 - name: 1080p Quality Tier 2
-  score: 83000
+  score: 94000
 - name: 1080p Quality Tier 3
-  score: 82000
+  score: 93000
 - name: 1080p Quality Tier 4
-  score: 81000
+  score: 92000
 - name: 1080p Quality Tier 5
-  score: 80000
+  score: 91000
 - name: 720p Bluray
-  score: 80000
+  score: 100000
 - name: 720p WEBRip
   score: 80000
+- name: TRaSH HD Bluray Tier 02
+  score: 165000
+- name: TRaSH WEB Tier 01
+  score: 155000
+- name: TRaSH WEB Tier 02
+  score: 145000
+- name: TRaSH WEB Tier 03
+  score: 135000
+- name: 1080p
+  score: 75000
+- name: Amazon Prime
+  score: 75000
+- name: Apple TV+
+  score: 75000
+- name: Disney+
+  score: 75000
+- name: Movies Anywhere
+  score: 75000
 - name: 1080p Balanced Tier 1
-  score: 60000
+  score: 75000
 - name: 480p WEB-DL
   score: 60000
 - name: 720p Quality Tier 1
-  score: 44000
+  score: 70000
 - name: 720p Quality Tier 2
-  score: 43000
+  score: 69000
 - name: 720p Quality Tier 3
-  score: 42000
+  score: 68000
 - name: 720p Quality Tier 4
-  score: 41000
+  score: 67000
 - name: 720p Quality Tier 5
-  score: 40000
+  score: 66000
 - name: 720p Balanced Tier 1
-  score: 20000
+  score: 30000
 - name: DVD
-  score: 20000
+  score: 40000
 - name: DVD Remux
-  score: 20000
+  score: 30000
 - name: SD Quality Tier 1
   score: 11000
 - name: SD Quality Tier 2
@@ -74,7 +98,7 @@ custom_formats:
 - name: DSNP
   score: 3000
 - name: HDR10+
-  score: 2000
+  score: 3000
 - name: HMAX
   score: 2000
 - name: MAX
@@ -110,21 +134,21 @@ custom_formats:
 - name: DTS
   score: 100
 - name: WEB-DL Tier 1
-  score: 100
+  score: 150000
 - name: WEB-DL Tier 2
-  score: 80
+  score: 120000
 - name: WEB-DL Tier 3
-  score: 60
+  score: 100000
 - name: WEB-DL Tier 4
-  score: 40
+  score: 80000
 - name: WEB-DL Tier 5
-  score: 20
+  score: 60000
 - name: Repack3
-  score: 8
+  score: 10000
 - name: Repack2
-  score: 7
+  score: 8750
 - name: Repack1
-  score: 6
+  score: 7500
 - name: AAC
   score: 0
 - name: BCORE
@@ -146,8 +170,26 @@ custom_formats:
 - name: STAN
   score: 0
 - name: x265 (Bluray)
-  score: -220000
+  score: -999999
 - name: AV1
+  score: -999999
+- name: v4
+  score: 5000
+- name: v3
+  score: 3750
+- name: v2
+  score: 2500
+- name: v1
+  score: 1250
+- name: v0
+  score: -999999
+- name: x265
+  score: -999999
+- name: 2160p
+  score: -999999
+- name: 3D
+  score: -999999
+- name: 720p
   score: -999999
 - name: B&W
   score: -999999

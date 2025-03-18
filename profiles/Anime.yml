@@ -7,8 +7,8 @@ tags:
 - 720p
 upgradesAllowed: false
 minCustomFormatScore: 0
-upgradeUntilScore: 0
-minScoreIncrement: 0
+upgradeUntilScore: 10000
+minScoreIncrement: 100
 custom_formats:
 - name: Anime BD Tier 01 (Top SeaDex Muxers)
   score: 1400
