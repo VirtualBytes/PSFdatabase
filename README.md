@@ -1,4 +1,8 @@
-# Dictionarry Database
+# This fork contains some of TRaSH guide's Release groups and Regex
+
+Maintained by me
+
+# Dictionary Database Repository
 
 [![Website](https://img.shields.io/badge/Website-dictionarry.dev-blue)](https://dictionarry.dev)
 [![Discord](https://img.shields.io/discord/1202375791556431892?color=blue&logo=discord&logoColor=white)](https://discord.com/invite/Y9TYP6jeYZ)
