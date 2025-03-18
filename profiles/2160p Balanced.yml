@@ -324,11 +324,9 @@ qualities:
     name: Bluray-1080p
   - id: 9
     name: WEBDL-1080p
-  - id: 11
-    name: WEBRip-1080p
-- id: -3
-  name: 720p Fallback
-  description: Fallback to 720p when 1080p cannot be found.
+- id: -4
+  name: 720p
+  description: ''
   qualities:
   - id: 13
     name: Bluray-720p
@@ -336,8 +334,10 @@ qualities:
     name: WEBDL-720p
   - id: 15
     name: WEBRip-720p
-- id: -4
-  name: SD Fallback
+  - id: 16
+    name: HDTV-720p
+- id: -1
+  name: SD
   description: Standard Definition Fallbacks
   qualities:
   - id: 18
@@ -346,8 +346,12 @@ qualities:
     name: WEBDL-480p
   - id: 20
     name: WEBRip-480p
-  - id: 22
-    name: DVD
+  - id: 24
+    name: SDTV
+  - id: 18
+    name: Bluray-480p
+  - id: 17
+    name: Bluray-576p
 upgrade_until:
   id: -1
   name: 2160p Balanced

@@ -272,9 +272,9 @@ qualities:
     name: Bluray-1080p
   - id: 9
     name: WEBDL-1080p
-- id: -2
-  name: 720p Fallback
-  description: Fallback to 720p when 1080p cannot be found.
+- id: -4
+  name: 720p fallback
+  description: ''
   qualities:
   - id: 13
     name: Bluray-720p
@@ -282,10 +282,14 @@ qualities:
     name: WEBDL-720p
   - id: 15
     name: WEBRip-720p
-- id: -3
-  name: SD Fallback
-  description: Standard Definition Fallbacks
+  - id: 16
+    name: HDTV-720p
+- id: -2
+  name: 720p Fallback
+  description: Fallback to 720p when 1080p cannot be found.
   qualities:
+  - id: 17
+    name: Bluray-576p
   - id: 18
     name: Bluray-480p
   - id: 19
@@ -294,6 +298,19 @@ qualities:
     name: WEBRip-480p
   - id: 22
     name: DVD
+- id: -3
+  name: Prereleases
+  description: 'Low quality releases that come out before physical discs / streaming
+    / VODs. Needs to be enabled for tweak to work. '
+  qualities:
+  - id: 29
+    name: CAM
+  - id: 26
+    name: Telesync
+  - id: 25
+    name: Telecine
+  - id: 23
+    name: DVDSCR
 upgrade_until:
   id: -1
   name: Balanced Capable
