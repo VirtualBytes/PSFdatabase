@@ -31,15 +31,15 @@ custom_formats:
 - name: TRaSH Remux Tier 02
   score: 206250
 - name: TRaSH HD Bluray Tier 01
-  score: 210000
+  score: 230000
 - name: TRaSH HD Bluray Tier 02
-  score: 190000
+  score: 210000
 - name: TRaSH WEB Tier 01
-  score: 170000
+  score: 190000
 - name: TRaSH WEB Tier 02
-  score: 150000
+  score: 170000
 - name: TRaSH WEB Tier 03
-  score: 130000
+  score: 150000
 - name: 1080p
   score: 75000
 - name: 1080p Quality Tier 3
@@ -52,6 +52,46 @@ custom_formats:
   score: 60000
 - name: 720p WEBRip
   score: 40000
+- name: Amazon Prime
+  score: 50000
+- name: Apple TV+
+  score: 50000
+- name: Disney+
+  score: 50000
+- name: DVD Remux
+  score: 50000
+- name: Movies Anywhere
+  score: 50000
+- name: Criterion Channel
+  score: 37500
+- name: HBO Max
+  score: 37500
+- name: Max
+  score: 37500
+- name: Netflix
+  score: 37500
+- name: Paramount+
+  score: 37500
+- name: Peacock
+  score: 37500
+- name: SD Golden Popcorn
+  score: 37500
+- name: SD Quality Tier 1
+  score: 37500
+- name: Free100
+  score: 31250
+- name: Hulu
+  score: 25000
+- name: iTunes
+  score: 25000
+- name: iTunes (Missing)
+  score: 25000
+- name: Roku
+  score: 25000
+- name: Scene
+  score: 25000
+- name: SD Quality Tier 2
+  score: 25000
 - name: 1080p Balanced Tier 1
   score: 75000
 - name: 480p WEB-DL
@@ -107,15 +147,15 @@ custom_formats:
 - name: DTS
   score: 100
 - name: WEB-DL Tier 1
-  score: 160000
+  score: 180000
 - name: WEB-DL Tier 2
-  score: 140000
+  score: 160000
 - name: WEB-DL Tier 3
-  score: 120000
+  score: 140000
 - name: WEB-DL Tier 4
-  score: 100000
+  score: 120000
 - name: WEB-DL Tier 5
-  score: 80000
+  score: 100000
 - name: Repack3
   score: 10000
 - name: Repack2
