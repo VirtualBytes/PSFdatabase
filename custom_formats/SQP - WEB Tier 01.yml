@@ -15,9 +15,9 @@ conditions:
   required: false
   negate: false
   source: webrip
-- name: ABBIE
+- name: ABBiE
   negate: false
-  pattern: ABBIE
+  pattern: ABBiE
   required: false
   type: release_group
 - name: AJP69

@@ -1,4 +1,4 @@
-name: TayTo
+name: TayTO
 pattern: (?<=^|[\s.-])TayTo\b
 description: ''
 tags:

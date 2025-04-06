@@ -4,9 +4,9 @@ tags:
 - Audio
 - TRaSH
 conditions:
-- name: SQP - TrueHD
+- name: SQP - TrueHD1
   negate: false
-  pattern: SQP - TrueHD
+  pattern: SQP - TrueHD1
   required: true
   type: release_title
 - name: SQP - ATMOS1
