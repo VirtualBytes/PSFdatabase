@@ -114,7 +114,7 @@ custom_formats:
   score: 6
 - name: 720p
   score: 5
-- name: Repack/Proper
+- name: Repack - Proper
   score: 5
 - name: 10bit
   score: -10000
