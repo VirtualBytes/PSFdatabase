@@ -2,6 +2,7 @@ name: SQP - DD+ ATMOS
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - Dolby Digital Plus
   negate: false

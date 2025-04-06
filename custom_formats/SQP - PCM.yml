@@ -2,6 +2,7 @@ name: SQP - PCM
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - PCM
   negate: false

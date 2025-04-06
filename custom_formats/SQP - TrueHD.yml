@@ -2,6 +2,7 @@ name: SQP - TrueHD
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - TrueHD2
   negate: false

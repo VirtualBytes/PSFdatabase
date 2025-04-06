@@ -2,6 +2,7 @@ name: SQP - UHD Bluray Tier 03
 description:
 tags:
 - Release Group
+- Bluray
 - TRaSH
 conditions:
 - name: WEBDL

@@ -2,6 +2,7 @@ name: SQP - WEB Tier 02
 description:
 tags:
 - Release Group
+- WEB
 - TRaSH
 conditions:
 - name: WEBDL

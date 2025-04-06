@@ -1,6 +1,7 @@
 name: SQP - x265 (HD)
 description:
-tags: []
+tags:
+- TRaSH
 conditions:
 - name: SQP - x265/HEVC
   negate: false

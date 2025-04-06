@@ -2,6 +2,7 @@ name: SQP - DTS-HD MA
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - DTS-HD MA
   negate: false

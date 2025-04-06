@@ -2,6 +2,7 @@ name: SQP - DTS-ES
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - DTS-ES
   negate: false

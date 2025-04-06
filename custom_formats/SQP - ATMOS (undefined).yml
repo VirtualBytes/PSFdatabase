@@ -2,6 +2,7 @@ name: SQP - ATMOS (undefined)
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - ATMOS2
   negate: false

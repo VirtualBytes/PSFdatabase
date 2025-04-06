@@ -2,6 +2,7 @@ name: SQP - DD
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - Basic Dolby Digital
   negate: false

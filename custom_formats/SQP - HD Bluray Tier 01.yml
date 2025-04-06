@@ -2,6 +2,7 @@ name: SQP - HD Bluray Tier 01
 description:
 tags:
 - Release Group
+- Bluray
 - TRaSH
 conditions:
 - name: BLURAY

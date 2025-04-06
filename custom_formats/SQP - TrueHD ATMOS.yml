@@ -2,6 +2,7 @@ name: SQP - TrueHD ATMOS
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - TrueHD
   negate: false

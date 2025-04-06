@@ -2,6 +2,7 @@ name: SQP - DTS-HD HRA
 description:
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: SQP - DTS-HD HRA
   negate: false
