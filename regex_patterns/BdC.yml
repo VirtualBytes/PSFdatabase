@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'BdC'
+pattern: '^(BdC)$'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

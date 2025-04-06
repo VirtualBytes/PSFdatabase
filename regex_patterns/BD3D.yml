@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'BD3D'
+pattern: '\b(BD3D)\b'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

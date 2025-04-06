@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'BBQ'
+pattern: '^(BBQ)$'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: '41RGB'
+pattern: '^(41RGB)$'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

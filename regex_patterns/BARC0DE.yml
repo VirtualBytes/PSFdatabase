@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'BARC0DE'
+pattern: '^(BARC0DE)$'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

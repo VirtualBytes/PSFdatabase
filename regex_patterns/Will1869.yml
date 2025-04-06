@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'Will1869'
+pattern: '\\b(Will1869)\\b'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'TeeWee'
+pattern: '\\b(TeeWee)\\b'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []

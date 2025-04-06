@@ -1,7 +1,6 @@
-name: dB
-pattern: ^(dB)$
+name: 'aXXo'
+pattern: '^(aXXo)$'
 description: ''
 tags:
 - Release Group
-- WEB-DL
 tests: []
