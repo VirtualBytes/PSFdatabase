@@ -1,5 +1,5 @@
-name: 'Feranki1980'
-pattern: '\\b(Feranki1980)\\b'
+name: Feranki1980
+pattern: ^(Feranki1980)$
 description: ''
 tags:
 - Release Group

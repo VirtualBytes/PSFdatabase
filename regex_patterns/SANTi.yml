@@ -1,0 +1,6 @@
+name: SANTi
+pattern: ^(SANTi)$
+description: ''
+tags:
+- Release Group
+tests: null

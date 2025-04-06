@@ -1,0 +1,6 @@
+name: KIRA
+pattern: ^(KIRA)$
+description: ''
+tags:
+- Release Group
+tests: null

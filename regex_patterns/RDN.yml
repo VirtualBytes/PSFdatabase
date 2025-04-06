@@ -1,0 +1,6 @@
+name: RDN
+pattern: ^(RDN)$
+description: ''
+tags:
+- Release Group
+tests: null

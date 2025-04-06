@@ -1,0 +1,6 @@
+name: GPTHD
+pattern: ^(GPTHD)$
+description: ''
+tags:
+- Release Group
+tests: null

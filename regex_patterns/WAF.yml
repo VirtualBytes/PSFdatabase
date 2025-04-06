@@ -1,0 +1,6 @@
+name: WAF
+pattern: ^(WAF)$
+description: ''
+tags:
+- Release Group
+tests: null

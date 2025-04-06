@@ -1,0 +1,6 @@
+name: PATOMiEL
+pattern: ^(PATOMiEL)$
+description: ''
+tags:
+- Release Group
+tests: null

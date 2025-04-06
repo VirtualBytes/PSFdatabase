@@ -1,0 +1,6 @@
+name: JFF
+pattern: ^(JFF)$
+description: ''
+tags:
+- Release Group
+tests: null

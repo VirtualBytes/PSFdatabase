@@ -1,0 +1,6 @@
+name: nikt0
+pattern: ^(nikt0)$
+description: ''
+tags:
+- Release Group
+tests: null

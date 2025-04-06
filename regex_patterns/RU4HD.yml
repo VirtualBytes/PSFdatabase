@@ -1,0 +1,6 @@
+name: RU4HD
+pattern: ^(RU4HD)$
+description: ''
+tags:
+- Release Group
+tests: null

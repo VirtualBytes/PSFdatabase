@@ -1,0 +1,6 @@
+name: mSD
+pattern: ^(mSD)$
+description: ''
+tags:
+- Release Group
+tests: null

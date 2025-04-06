@@ -1,0 +1,6 @@
+name: HDTime
+pattern: ^(HDTime)$
+description: ''
+tags:
+- Release Group
+tests: null

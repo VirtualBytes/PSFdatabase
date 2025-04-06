@@ -1,0 +1,6 @@
+name: GHD
+pattern: ^(GHD)$
+description: ''
+tags:
+- Release Group
+tests: null
