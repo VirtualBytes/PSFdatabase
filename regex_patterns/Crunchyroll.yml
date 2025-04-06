@@ -1,0 +1,6 @@
+name: 'Crunchyroll'
+pattern: '\\b(C(runchy)?[ .-]?R(oll)?)\\b'
+description: ''
+tags:
+- Release Group
+tests: []
