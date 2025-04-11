@@ -46,8 +46,6 @@ custom_formats:
   score: 102
 - name: 2160p
   score: 50
-- name: Free100
-  score: 50
 - name: 720p
   score: 25
 - name: Crunchyroll
