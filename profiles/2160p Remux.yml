@@ -21,21 +21,53 @@ upgradeUntilScore: 400000
 minScoreIncrement: 1
 custom_formats:
 - name: 2160p Remux
-  score: 160000
+  score: 300000
 - name: 2160p WEB-DL
-  score: 140000
+  score: 250000
 - name: 1080p Remux
-  score: 120000
+  score: 200000
 - name: 1080p WEB-DL
-  score: 100000
+  score: 180000
 - name: 720p WEB-DL
-  score: 80000
+  score: 120000
 - name: 480p WEB-DL
-  score: 60000
+  score: 80000
 - name: DVD
   score: 20000
+- name: TRaSH Remux Tier 01
+  score: 320000
+- name: TRaSH Remux Tier 02
+  score: 310000
+- name: HD Bluray Tier 01
+  score: 230000
+- name: 2160p
+  score: 240000
+- name: HD Bluray Tier 02
+  score: 220000
+- name: TRaSH WEB Tier 01
+  score: 185000
+- name: TRaSH WEB Tier 02
+  score: 170000
+- name: TRaSH WEB Tier 03
+  score: 155000
+- name: 1080p
+  score: 75000
+- name: Blu-ray Remux
+  score: 75000
+- name: DTS-X
+  score: 10000
+- name: Remux
+  score: 75000
+- name: DTS-HD MA
+  score: 8000
+- name: Special Edition
+  score: 1000
+- name: TrueHD
+  score: 8000
+- name: TrueHD (Missing)
+  score: 8000
 - name: DVD Remux
-  score: 20000
+  score: 40000
 - name: SD Quality Tier 1
   score: 11000
 - name: DTS-X
@@ -88,30 +120,30 @@ custom_formats:
   score: 1000
 - name: PQ
   score: 1000
+- name: TRaSH Remux Tier 1
+  score: 290000
+- name: TRaSH Remux Tier 2
+  score: 280000
+- name: TRaSH Remux Tier 3
+  score: 270000
+- name: TRaSH Remux Tier 4
+  score: 260000
 - name: WEB-DL Tier 1
-  score: 100
-- name: Remux Tier 1
-  score: 80
+  score: 140000
 - name: WEB-DL Tier 2
-  score: 80
-- name: Remux Tier 2
-  score: 60
+  score: 120000
 - name: WEB-DL Tier 3
-  score: 60
-- name: Remux Tier 3
-  score: 40
+  score: 100000
 - name: WEB-DL Tier 4
-  score: 40
-- name: Remux Tier 4
-  score: 20
+  score: 80000
 - name: WEB-DL Tier 5
-  score: 20
+  score: 60000
 - name: Repack3
-  score: 8
+  score: 10000
 - name: Repack2
-  score: 7
+  score: 8750
 - name: Repack1
-  score: 6
+  score: 7500
 - name: AAC
   score: 0
 - name: BCORE
@@ -132,6 +164,22 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
+- name: Unknown Lossless Audio
+  score: 5
+- name: v4
+  score: 4
+- name: v3
+  score: 3
+- name: v2
+  score: 2
+- name: v1
+  score: 1
+- name: v0
+  score: -51
+- name: 3D
+  score: -9999
+- name: 720p
+  score: -9999
 - name: AV1
   score: -999999
 - name: B&W
@@ -223,16 +271,6 @@ qualities:
   name: Remux-1080p
 - id: 9
   name: WEBDL-1080p
-- id: 14
-  name: WEBDL-720p
-- id: -1
-  name: SD Fallback
-  description: Standard Definition Fallbacks
-  qualities:
-  - id: 22
-    name: DVD
-  - id: 19
-    name: WEBDL-480p
 upgrade_until:
   id: 3
   name: Remux-2160p

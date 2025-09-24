@@ -17,29 +17,83 @@ custom_formats:
 - name: 1080p WEB-DL
   score: 200000
 - name: 1080p Bluray
-  score: 140000
+  score: 220000
 - name: 1080p WEBRip
-  score: 140000
+  score: 180000
 - name: 720p WEB-DL
-  score: 100000
+  score: 50000
 - name: 1080p Quality Tier 1
-  score: 84000
+  score: 160000
 - name: 1080p Quality Tier 2
-  score: 83000
+  score: 140000
+- name: TRaSH Remux Tier 01
+  score: 240000
+- name: TRaSH Remux Tier 02
+  score: 206250
+- name: TRaSH HD Bluray Tier 01
+  score: 230000
+- name: TRaSH HD Bluray Tier 02
+  score: 210000
+- name: TRaSH WEB Tier 01
+  score: 190000
+- name: TRaSH WEB Tier 02
+  score: 170000
+- name: TRaSH WEB Tier 03
+  score: 150000
+- name: 1080p
+  score: 75000
 - name: 1080p Quality Tier 3
-  score: 82000
+  score: 120000
 - name: 1080p Quality Tier 4
-  score: 81000
+  score: 100000
 - name: 1080p Quality Tier 5
   score: 80000
 - name: 720p Bluray
-  score: 80000
+  score: 60000
 - name: 720p WEBRip
-  score: 80000
+  score: 40000
+- name: Amazon Prime
+  score: 50000
+- name: Apple TV+
+  score: 50000
+- name: Disney+
+  score: 50000
+- name: DVD Remux
+  score: 50000
+- name: Movies Anywhere
+  score: 50000
+- name: Criterion Channel
+  score: 37500
+- name: HBO Max
+  score: 37500
+- name: Max
+  score: 37500
+- name: Netflix
+  score: 37500
+- name: Paramount+
+  score: 37500
+- name: Peacock
+  score: 37500
+- name: SD Quality Tier 1
+  score: 37500
+- name: Free100
+  score: 31250
+- name: Hulu
+  score: 25000
+- name: iTunes
+  score: 25000
+- name: iTunes (Missing)
+  score: 25000
+- name: Roku
+  score: 25000
+- name: Scene
+  score: 25000
+- name: SD Quality Tier 2
+  score: 25000
 - name: 1080p Balanced Tier 1
-  score: 60000
+  score: 75000
 - name: 480p WEB-DL
-  score: 60000
+  score: 30000
 - name: 720p Quality Tier 1
   score: 44000
 - name: 720p Quality Tier 2
@@ -51,11 +105,11 @@ custom_formats:
 - name: 720p Quality Tier 5
   score: 40000
 - name: 720p Balanced Tier 1
-  score: 20000
+  score: 30000
 - name: DVD
   score: 20000
 - name: DVD Remux
-  score: 20000
+  score: 30000
 - name: SD Quality Tier 1
   score: 11000
 - name: SD Quality Tier 2
@@ -91,21 +145,21 @@ custom_formats:
 - name: DTS
   score: 100
 - name: WEB-DL Tier 1
-  score: 100
+  score: 180000
 - name: WEB-DL Tier 2
-  score: 80
+  score: 160000
 - name: WEB-DL Tier 3
-  score: 60
+  score: 140000
 - name: WEB-DL Tier 4
-  score: 40
+  score: 120000
 - name: WEB-DL Tier 5
-  score: 20
+  score: 100000
 - name: Repack3
-  score: 8
+  score: 10000
 - name: Repack2
-  score: 7
+  score: 8750
 - name: Repack1
-  score: 6
+  score: 7500
 - name: AAC
   score: 0
 - name: BCORE
@@ -128,6 +182,20 @@ custom_formats:
   score: 0
 - name: AV1
   score: -999999
+- name: v4
+  score: 5000
+- name: v3
+  score: 3750
+- name: v2
+  score: 2500
+- name: v1
+  score: 1250
+- name: v0
+  score: -999999
+- name: 2160p
+  score: -9999
+- name: 3D
+  score: -9999
 - name: B&W
   score: -999999
 - name: Banned Groups
@@ -212,9 +280,9 @@ qualities:
     name: WEBDL-1080p
   - id: 11
     name: WEBRip-1080p
-- id: -2
-  name: 720p Fallback
-  description: Fallback to 720p when 1080p cannot be found.
+- id: -3
+  name: 720p fallback
+  description: ''
   qualities:
   - id: 13
     name: Bluray-720p
@@ -222,18 +290,8 @@ qualities:
     name: WEBDL-720p
   - id: 15
     name: WEBRip-720p
-- id: -3
-  name: SD Fallback
-  description: Standard Definition Fallbacks
-  qualities:
-  - id: 18
-    name: Bluray-480p
-  - id: 19
-    name: WEBDL-480p
-  - id: 20
-    name: WEBRip-480p
-  - id: 22
-    name: DVD
+  - id: 16
+    name: HDTV-720p
 upgrade_until:
   id: -1
   name: Transparent Capable
