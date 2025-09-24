@@ -2,10 +2,7 @@
 
 Maintained by me
 
-Latest addition:
-TRaSH Guides SQP-1 profiles in 1080p and 2160p
-
-This fork doesn't contain anything Golden Popcorn related as it was causing issues for some reason for me syncing to my Sonarr which I couldn't solve
+Updated for latest version of Profilarr
 
 # Dictionary Database Repository
 
