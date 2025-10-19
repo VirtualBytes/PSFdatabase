@@ -285,7 +285,7 @@ custom_formats_sonarr:
 - name: Upscaled
   score: -999999
 qualities:
-- id: -4
+- id: -1
   name: Balanced Capable
   description: ''
   qualities:
@@ -293,7 +293,7 @@ qualities:
     name: Bluray-2160p
   - id: 5
     name: WEBDL-2160p
-- id: -1
+- id: -2
   name: Efficient Capable
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
     majority of releases, but there are occasional streaming optimised encodes that
@@ -305,7 +305,7 @@ qualities:
     name: WEBDL-1080p
   - id: 11
     name: WEBRip-1080p
-- id: -2
+- id: -3
   name: 720p Fallback
   description: Fallback to 720p when 1080p cannot be found.
   qualities:
@@ -315,7 +315,7 @@ qualities:
     name: WEBDL-720p
   - id: 15
     name: WEBRip-720p
-- id: -3
+- id: -4
   name: SD Fallback
   description: Standard Definition Fallbacks
   qualities:
@@ -328,6 +328,6 @@ qualities:
   - id: 22
     name: DVD
 upgrade_until:
-  id: -4
+- id: -1
   name: Balanced Capable
 language: must_original
