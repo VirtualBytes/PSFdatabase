@@ -1,0 +1,6 @@
+name: CDDHD
+pattern: ^(CDDHD)$
+description: ''
+tags:
+- Release Group
+tests: null

@@ -1,0 +1,6 @@
+name: SUNSCREEN
+pattern: ^(SUNSCREEN)$
+description: ''
+tags:
+- Release Group
+tests: null

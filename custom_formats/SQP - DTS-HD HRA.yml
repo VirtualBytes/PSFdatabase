@@ -1,0 +1,62 @@
+name: SQP - DTS-HD HRA
+description:
+tags:
+- Audio
+- TRaSH
+conditions:
+- name: SQP - DTS-HD HRA
+  negate: false
+  pattern: SQP - DTS-HD HRA
+  required: true
+  type: release_title
+- name: SQP - Not TrueHD/ATMOS1
+  negate: true
+  pattern: SQP - Not TrueHD/ATMOS1
+  required: true
+  type: release_title
+- name: SQP - Not Dolby Digital Plus
+  negate: true
+  pattern: SQP - Not Dolby Digital Plus
+  required: true
+  type: release_title
+- name: SQP - Not Basic DTS
+  negate: true
+  pattern: SQP - Not Basic DTS
+  required: true
+  type: release_title
+- name: SQP - Not Basic Dolby Digital
+  negate: true
+  pattern: SQP - Not Basic Dolby Digital
+  required: true
+  type: release_title
+- name: SQP - Not DTS X
+  negate: true
+  pattern: SQP - Not DTS X
+  required: true
+  type: release_title
+- name: SQP - Not FLAC
+  negate: true
+  pattern: SQP - Not FLAC
+  required: true
+  type: release_title
+- name: SQP - Not AAC
+  negate: true
+  pattern: SQP - Not AAC
+  required: true
+  type: release_title
+- name: SQP - Not PCM
+  negate: true
+  pattern: SQP - Not PCM
+  required: true
+  type: release_title
+- name: SQP - Not DTS-ES
+  negate: true
+  pattern: SQP - Not DTS-ES
+  required: true
+  type: release_title
+- name: SQP - Not 6.1 Surround
+  negate: true
+  pattern: SQP - Not 6.1 Surround
+  required: true
+  type: release_title
+tests: []

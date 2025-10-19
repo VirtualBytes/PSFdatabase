@@ -172,7 +172,7 @@ custom_formats:
 - name: SQP - x265 (HD)
   score: -10000
 qualities:
-- id: -1
+- id: -3
   name: Bluray|WEB-2160p
   description: ''
   qualities:
@@ -182,7 +182,7 @@ qualities:
     name: WEBDL-2160p
   - id: 6
     name: WEBRip-2160p
-- id: -2
+- id: -1
   name: Bluray|WEB-1080p
   description: ''
   qualities:
@@ -195,6 +195,6 @@ qualities:
 - id: 13
   name: Bluray-720p
 upgrade_until:
-- id: -1
+  id: -3
   name: Bluray|WEB-2160p
 language: must_original

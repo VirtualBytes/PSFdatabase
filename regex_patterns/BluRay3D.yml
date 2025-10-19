@@ -1,0 +1,6 @@
+name: 'BluRay3D'
+pattern: '\b(BluRay3D)\b'
+description: ''
+tags:
+- Release Group
+tests: []

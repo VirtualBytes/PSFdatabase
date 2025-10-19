@@ -1,0 +1,20 @@
+name: Crunchyroll
+description:
+tags: []
+conditions:
+- name: WEBDL
+  type: source
+  required: false
+  negate: false
+  source: web_dl
+- name: WEBRIP
+  type: source
+  required: false
+  negate: false
+  source: webrip
+- name: Crunchyroll
+  negate: false
+  pattern: Crunchyroll
+  required: true
+  type: release_title
+tests: []

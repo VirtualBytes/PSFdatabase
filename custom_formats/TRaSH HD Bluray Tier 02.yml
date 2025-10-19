@@ -1,0 +1,29 @@
+name: TRaSH HD Bluray Tier 02
+description: HD Bluray Tier 02
+tags:
+- HD
+- Bluray
+- Tier 02
+- TRaSH
+conditions:
+- name: BLURAY
+  negate: false
+  required: true
+  source: bluray
+  type: source
+- name: Not 2160p
+  negate: true
+  required: true
+  resolution: 2160p
+  type: resolution
+- name: SA89
+  negate: false
+  pattern: SA89
+  required: false
+  type: release_group
+- name: SbR
+  negate: false
+  pattern: SbR
+  required: false
+  type: release_group
+tests: []

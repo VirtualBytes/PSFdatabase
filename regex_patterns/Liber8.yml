@@ -1,0 +1,6 @@
+name: Liber8
+pattern: ^(Liber8)$
+description: ''
+tags:
+- Release Group
+tests: null

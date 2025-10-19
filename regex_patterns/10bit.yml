@@ -1,0 +1,6 @@
+name: '10bit'
+pattern: '10[.-]?bit'
+description: ''
+tags:
+- Release Group
+tests: []

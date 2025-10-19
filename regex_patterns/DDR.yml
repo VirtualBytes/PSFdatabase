@@ -1,0 +1,6 @@
+name: DDR
+pattern: ^(DDR)$
+description: ''
+tags:
+- Release Group
+tests: null

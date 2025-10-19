@@ -1,0 +1,6 @@
+name: 'BdC'
+pattern: '^(BdC)$'
+description: ''
+tags:
+- Release Group
+tests: []

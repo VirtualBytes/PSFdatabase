@@ -149,7 +149,7 @@ custom_formats:
 qualities:
 - id: 4
   name: Bluray-2160p
-- id: -1
+- id: -2
   name: WEB-2160p
   description: ''
   qualities:
@@ -157,7 +157,7 @@ qualities:
     name: WEBDL-2160p
   - id: 6
     name: WEBRip-2160p
-- id: -2
+- id: -1
   name: Bluray|WEB-1080p
   description: ''
   qualities:

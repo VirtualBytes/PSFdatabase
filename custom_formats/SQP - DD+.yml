@@ -1,0 +1,37 @@
+name: SQP - DD+
+description:
+tags:
+- Audio
+- TRaSH
+conditions:
+- name: SQP - Dolby Digital Plus
+  negate: false
+  pattern: SQP - Dolby Digital Plus
+  required: true
+  type: release_title
+- name: SQP - Not TrueHD/ATMOS2
+  negate: true
+  pattern: SQP - Not TrueHD/ATMOS2
+  required: true
+  type: release_title
+- name: SQP - Not DTS
+  negate: true
+  pattern: SQP - Not DTS
+  required: true
+  type: release_title
+- name: SQP - Not FLAC
+  negate: true
+  pattern: SQP - Not FLAC
+  required: true
+  type: release_title
+- name: SQP - Not AAC
+  negate: true
+  pattern: SQP - Not AAC
+  required: true
+  type: release_title
+- name: SQP - Not PCM
+  negate: true
+  pattern: SQP - Not PCM
+  required: true
+  type: release_title
+tests: []

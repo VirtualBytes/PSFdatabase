@@ -1,0 +1,6 @@
+name: HDT
+pattern: ^(HDT)$
+description: ''
+tags:
+- Release Group
+tests: null

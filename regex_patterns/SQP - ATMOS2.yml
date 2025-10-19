@@ -1,0 +1,7 @@
+name: "SQP - ATMOS2"
+pattern: '\bATMOS(\b|\d)'
+description: ''
+tags:
+- Audio
+- TRaSH
+tests: []

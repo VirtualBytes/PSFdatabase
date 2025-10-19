@@ -1,0 +1,16 @@
+name: SQP - x265 (HD)
+description:
+tags:
+- TRaSH
+conditions:
+- name: SQP - x265/HEVC
+  negate: false
+  pattern: SQP - x265/HEVC
+  required: true
+  type: release_title
+- name: Not 2160p
+  negate: true
+  required: true
+  resolution: 2160p
+  type: resolution
+tests: []

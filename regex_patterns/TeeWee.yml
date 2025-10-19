@@ -1,0 +1,6 @@
+name: 'TeeWee'
+pattern: '\\b(TeeWee)\\b'
+description: ''
+tags:
+- Release Group
+tests: []

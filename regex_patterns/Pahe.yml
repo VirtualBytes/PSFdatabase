@@ -1,0 +1,6 @@
+name: Pahe
+pattern: Pahe(\.(ph|in))?\b
+description: ''
+tags:
+- Release Group
+tests: null

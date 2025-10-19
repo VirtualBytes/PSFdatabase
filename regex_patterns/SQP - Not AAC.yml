@@ -1,0 +1,7 @@
+name: "SQP - Not AAC"
+pattern: '\bAAC(\b|\d)'
+description: ''
+tags:
+- Audio
+- TRaSH
+tests: []

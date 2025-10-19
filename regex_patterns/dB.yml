@@ -1,5 +1,5 @@
 name: dB
-pattern: (?<=^|[\s.-])dB\b
+pattern: ^(dB)$
 description: ''
 tags:
 - Release Group

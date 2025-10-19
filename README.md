@@ -1,4 +1,10 @@
-# Dictionarry Database
+# This fork contains some of TRaSH guide's Release groups, Regex and Quality profile mixed in with an Anime profile
+
+Maintained by me
+
+Updated for latest version of Profilarr
+
+# Dictionary Database Repository
 
 [![Website](https://img.shields.io/badge/Website-dictionarry.dev-blue)](https://dictionarry.dev)
 [![Discord](https://img.shields.io/discord/1202375791556431892?color=blue&logo=discord&logoColor=white)](https://discord.com/invite/Y9TYP6jeYZ)

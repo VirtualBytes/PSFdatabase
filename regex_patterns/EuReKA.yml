@@ -1,0 +1,6 @@
+name: EuReKA
+pattern: ^(EuReKA)$
+description: ''
+tags:
+- Release Group
+tests: null

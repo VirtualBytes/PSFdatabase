@@ -1,0 +1,6 @@
+name: 'BARC0DE'
+pattern: '^(BARC0DE)$'
+description: ''
+tags:
+- Release Group
+tests: []

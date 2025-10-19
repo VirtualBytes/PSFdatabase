@@ -1,0 +1,6 @@
+name: C1NEM4
+pattern: ^(C1NEM4)$
+description: ''
+tags:
+- Release Group
+tests: null
